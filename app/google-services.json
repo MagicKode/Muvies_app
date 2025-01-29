@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "23042234354",
+    "project_id": "muvie-app",
+    "storage_bucket": "muvie-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23042234354:android:93145ef68423e0d92e3d6b",
+        "android_client_info": {
+          "package_name": "ru.myapp.muview_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6E1oDW3UvRmFRdM44q-gTM2Ap3ee4_3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
